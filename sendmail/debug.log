@@ -1,0 +1,110 @@
+15-12-17 14:29:12 ** --- MESSAGE BEGIN ---
+15-12-17 14:29:12 ** To: dayanstef@gmail.com
+15-12-17 14:29:12 ** Subject: Test from localhost
+15-12-17 14:29:12 ** X-PHP-Originating-Script: 0:mailme.php
+15-12-17 14:29:12 ** 
+15-12-17 14:29:12 ** Simple localhost php mail test
+15-12-17 14:29:12 ** Second line of text
+15-12-17 14:29:12 ** --- MESSAGE END ---
+15-12-17 14:29:14 ** Connecting to smtp.gmail.com:587
+15-12-17 14:29:15 ** Disconnected.
+15-12-17 14:29:15 ** Disconnected.
+15-12-17 14:29:15 ** Disconnected.
+15-12-17 14:29:15 ** Socket Error # 10061<EOL>Connection refused.
+15-12-17 14:30:40 ** --- MESSAGE BEGIN ---
+15-12-17 14:30:40 ** To: dayanstef@gmail.com
+15-12-17 14:30:40 ** Subject: My subject
+15-12-17 14:30:40 ** X-PHP-Originating-Script: 0:mailme.php
+15-12-17 14:30:40 ** From: ds.localhost@gmail.com
+15-12-17 14:30:40 ** 
+15-12-17 14:30:40 ** Hello world!
+15-12-17 14:30:40 ** --- MESSAGE END ---
+15-12-17 14:30:43 ** Connecting to smtp.gmail.com:587
+15-12-17 14:30:44 ** Disconnected.
+15-12-17 14:30:44 ** Disconnected.
+15-12-17 14:30:44 ** Disconnected.
+15-12-17 14:30:44 ** Socket Error # 10061<EOL>Connection refused.
+15-12-17 14:33:52 ** --- MESSAGE BEGIN ---
+15-12-17 14:33:52 ** To: dayanstef@gmail.com
+15-12-17 14:33:52 ** Subject: My subject
+15-12-17 14:33:52 ** From: ds.localhost@gmail.com
+15-12-17 14:33:52 ** 
+15-12-17 14:33:52 ** Hello world!
+15-12-17 14:33:52 ** --- MESSAGE END ---
+15-12-17 14:33:55 ** Connecting to smtp.gmail.com:587
+15-12-17 14:33:56 ** Disconnected.
+15-12-17 14:33:56 ** Disconnected.
+15-12-17 14:33:56 ** Disconnected.
+15-12-17 14:33:56 ** Socket Error # 10061<EOL>Connection refused.
+15-12-17 14:35:55 ** --- MESSAGE BEGIN ---
+15-12-17 14:35:55 ** To: dayanstef@gmail.com
+15-12-17 14:35:55 ** Subject: Test localhost email
+15-12-17 14:35:55 ** From:ds.localhost@gmail.com
+15-12-17 14:35:55 ** 
+15-12-17 14:35:55 ** Thhis is localhost test email
+15-12-17 14:35:55 ** --- MESSAGE END ---
+15-12-17 14:35:57 ** Connecting to smtp.gmail.com:587
+15-12-17 14:35:58 ** Disconnected.
+15-12-17 14:35:58 ** Disconnected.
+15-12-17 14:35:58 ** Disconnected.
+15-12-17 14:35:58 ** Socket Error # 10061<EOL>Connection refused.
+15-12-17 14:36:30 ** --- MESSAGE BEGIN ---
+15-12-17 14:36:30 ** To: dayanstef@gmail.com
+15-12-17 14:36:30 ** Subject: Test localhost email
+15-12-17 14:36:30 ** From:ds.localhost@gmail.com
+15-12-17 14:36:30 ** 
+15-12-17 14:36:30 ** Thhis is localhost test email
+15-12-17 14:36:30 ** --- MESSAGE END ---
+15-12-17 14:36:32 ** Connecting to smtp.gmail.com:587
+15-12-17 14:36:33 ** Disconnected.
+15-12-17 14:36:33 ** Disconnected.
+15-12-17 14:36:33 ** Disconnected.
+15-12-17 14:36:33 ** Socket Error # 10061<EOL>Connection refused.
+15-12-17 14:40:04 ** --- MESSAGE BEGIN ---
+15-12-17 14:40:04 ** To: dayanstef@gmail.com
+15-12-17 14:40:04 ** Subject: Test localhost email
+15-12-17 14:40:04 ** From:ds.localhost@gmail.com
+15-12-17 14:40:04 ** 
+15-12-17 14:40:04 ** Thhis is localhost test email
+15-12-17 14:40:04 ** --- MESSAGE END ---
+15-12-17 14:40:06 ** Connecting to smtp.gmail.com:25
+15-12-17 14:40:07 ** Disconnected.
+15-12-17 14:40:07 ** Disconnected.
+15-12-17 14:40:07 ** Disconnected.
+15-12-17 14:40:07 ** Socket Error # 10061<EOL>Connection refused.
+15-12-17 14:51:02 ** --- MESSAGE BEGIN ---
+15-12-17 14:51:02 ** To: dayanstef@gmail.com
+15-12-17 14:51:02 ** Subject: Test localhost email
+15-12-17 14:51:02 ** From:ds.localhost@gmail.com
+15-12-17 14:51:02 ** 
+15-12-17 14:51:02 ** Thhis is localhost test email
+15-12-17 14:51:02 ** --- MESSAGE END ---
+15-12-17 14:51:04 ** Connecting to smtp.gmail.com:25
+15-12-17 14:51:05 ** Disconnected.
+15-12-17 14:51:05 ** Disconnected.
+15-12-17 14:51:05 ** Disconnected.
+15-12-17 14:51:05 ** Socket Error # 10061<EOL>Connection refused.
+15-12-17 14:51:16 ** --- MESSAGE BEGIN ---
+15-12-17 14:51:16 ** To: dayanstef@gmail.com
+15-12-17 14:51:16 ** Subject: Test localhost email
+15-12-17 14:51:16 ** From:ds.localhost@gmail.com
+15-12-17 14:51:16 ** 
+15-12-17 14:51:16 ** Thhis is localhost test email
+15-12-17 14:51:16 ** --- MESSAGE END ---
+15-12-17 14:51:19 ** Connecting to smtp.gmail.com:25
+15-12-17 14:51:20 ** Disconnected.
+15-12-17 14:51:20 ** Disconnected.
+15-12-17 14:51:20 ** Disconnected.
+15-12-17 14:51:20 ** Socket Error # 10061<EOL>Connection refused.
+15-12-17 15:41:23 ** --- MESSAGE BEGIN ---
+15-12-17 15:41:23 ** To: dayanstef@gmail.com
+15-12-17 15:41:23 ** Subject: Test localhost email
+15-12-17 15:41:23 ** From:ds.localhost@gmail.com
+15-12-17 15:41:23 ** 
+15-12-17 15:41:23 ** Thhis is localhost test email
+15-12-17 15:41:23 ** --- MESSAGE END ---
+15-12-17 15:41:23 ** Connecting to smtp.gmail.com:587
+15-12-17 15:41:24 ** Disconnected.
+15-12-17 15:41:24 ** Disconnected.
+15-12-17 15:41:24 ** Disconnected.
+15-12-17 15:41:24 ** Socket Error # 10061<EOL>Connection refused.
